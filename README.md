@@ -1,3 +1,3 @@
 Hello There
 
-![Metrics](https://github.com/shnkreddy98/shnkreddy98/blob/master/metrics.svg)
+[<img alt="🦑" src="https://github.com/shnkreddy98/shnkreddy98/blob/master/metrics.svg">](https://github.com/shnkreddy98/metrics)
