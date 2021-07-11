@@ -1294,15 +1294,9 @@
                             <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                27
+                28
                 
                   <div class="bottom">June</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                28
                 
               </div>
                             <div class="entry">
@@ -1379,6 +1373,12 @@
                 10
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                11
+                
+              </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1387,15 +1387,9 @@
                             <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                27
+                28
                 
                 <div class="bottom">June</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                28
                 
               </div>
                             <div class="entry">
@@ -1472,13 +1466,19 @@
                 10
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                11
+                
+              </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 10 Jul 2021 23:15:58  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 11 Jul 2021 00:50:27  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
